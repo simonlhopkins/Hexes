@@ -1,3 +1,6 @@
+
+. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. [Play Now!](https://simonlhopkins.itch.io/hexes) . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+
 Hello!
 
 This is the game "Dots" but made on a hexagonal grid.
